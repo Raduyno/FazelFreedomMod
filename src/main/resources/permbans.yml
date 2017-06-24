@@ -1,0 +1,10 @@
+#
+# TotalFreedomMod 5.0 Permanent Bans
+#
+
+badplayer1:
+  - [ip]
+  - [ip 2]
+badplayer2:
+  - [ip]
+badplayer3: []
