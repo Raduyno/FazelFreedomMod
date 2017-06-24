@@ -15,7 +15,9 @@ public enum Rank implements Displayable
     TELNET_CONSOLE("the", "Console", Type.ADMIN_CONSOLE, "Console", ChatColor.DARK_PURPLE),
     SENIOR_CONSOLE("the", "Console", Type.ADMIN_CONSOLE, "Console", ChatColor.DARK_PURPLE),
     Developer("a", "Developer", Type.ADMIN, "Dev", ChatColor.DARK_PURPLE),
-    Owner("a", "Owner", Type.ADMIN, "Owner", ChatColor.DARK_RED);
+    Lead_Developer("the", "Lead-Developer", Type.ADMIN, "L-Dev", ChatColor.DARK_PURPLE),
+    Co_Owner("the", "Co-Owner", Type.ADMIN, "CO-Owner", ChatColor.DARK_RED);
+    Owner("the", "Owner", Type.ADMIN, "Owner", ChatColor.DARK_RED);
     
     @Getter
     private final Type type;
