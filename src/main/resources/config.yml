@@ -300,7 +300,7 @@ famous_players:
 
 # IPs that can not be supered
 noadmin_ips:
-  - 167.114.97.16
+  - 185.109.250.90
 
 # Pet Protect - Prevent tamed pets from being killed.
 petprotect:
