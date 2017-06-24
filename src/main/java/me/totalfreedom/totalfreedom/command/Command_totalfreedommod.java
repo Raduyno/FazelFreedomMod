@@ -50,7 +50,7 @@ public class Command_totalfreedommod extends FreedomCommand
         TotalFreedomMod.BuildProperties build = TotalFreedomMod.build;
         msg("FazelFreedomMod for  'FazelFreedom', the original all-op server.", ChatColor.GOLD);
         msg("Running on " + ConfigEntry.SERVER_NAME.getString() + ".", ChatColor.GOLD);
-        msg("Created by Raduino.", ChatColor.GOLD);
+        msg("Created by Raduino and ChaoTicSemtex.", ChatColor.GOLD);
         msg(String.format("Version "
                 + ChatColor.BLUE + "%s %s.%s " + ChatColor.GOLD + "("
                 + ChatColor.BLUE + "%s" + ChatColor.GOLD + ")",
@@ -63,7 +63,7 @@ public class Command_totalfreedommod extends FreedomCommand
                 + ChatColor.BLUE + "%s",
                 build.date,
                 build.author), ChatColor.GOLD);
-        msg("Visit " + ChatColor.AQUA + "our Discord"
+        msg("Visit " + ChatColor.AQUA + "http://fazelfreedomx.proboards.com/"
                 + ChatColor.GREEN + " for more information!", ChatColor.GREEN);
 
         return true;
