@@ -9,3 +9,6 @@ You may download official binaries from the github
 You arent allowed to give to anyone a compiled version of FF Mod. You need to compile it with NetBeans.
 Dont say the Mod is your own work.
 
+# Info
+We are forked from TotalFreedomMod you may check out their license
+
