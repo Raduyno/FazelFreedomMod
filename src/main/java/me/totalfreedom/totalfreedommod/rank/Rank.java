@@ -16,7 +16,7 @@ public enum Rank implements Displayable
     SENIOR_CONSOLE("the", "Console", Type.ADMIN_CONSOLE, "Console", ChatColor.DARK_PURPLE),
     Developer("a", "Developer", Type.ADMIN, "Dev", ChatColor.DARK_PURPLE),
     Lead_Developer("the", "Lead-Developer", Type.ADMIN, "L-Dev", ChatColor.DARK_PURPLE),
-    Co_Owner("the", "Co-Owner", Type.ADMIN, "CO-Owner", ChatColor.DARK_RED);
+    Co_Owner("the", "Co-Owner", Type.ADMIN, "CO-Owner", ChatColor.DARK_RED),
     Owner("the", "Owner", Type.ADMIN, "Owner", ChatColor.DARK_RED);
     
     @Getter
